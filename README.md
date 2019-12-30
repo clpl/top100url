@@ -20,7 +20,7 @@
 
 ./main.cpp 代码文件
 
-./run.bash 包含编译和运行部分的命令，用于一键测试
+./run.sh 包含编译和运行部分的命令，用于一键测试
 
 ./test.txt url数据文件，可以使用genURL.py生成
 
