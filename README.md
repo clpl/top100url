@@ -19,10 +19,15 @@
 ## 文件
 
 ./main.cpp 代码文件
+
 ./run.bash 包含编译和运行部分的命令，用于一键测试
+
 ./test.txt url数据文件，可以使用genURL.py生成
+
 ./genURL.py 根据url的正则表达式随机生成url数据，采用一定概率设置随机种子的方法重复产生url。
+
 ./hash_file/ 用于存储Map阶段产生的中间临时文件，初始目录为空
+
 ./img/ 存储markdown配图
 
 
