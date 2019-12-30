@@ -30,6 +30,19 @@
 
 ./img/ 存储markdown配图
 
+## 使用
+
+若需要生成新的test.txt测试文件，需运行下列命令
+
+```shell
+python3 ./genURL.py
+```
+
+运行以下命令，进行编译程序与运行程序的操作
+
+```shell
+bash run.sh
+```
 
 ## 实验
 
