@@ -1,2 +1,2 @@
-g++ main.cpp -pthread -o main.out
+g++ main.cpp -std=c++11 -pthread -o main.out
 ./main.out
